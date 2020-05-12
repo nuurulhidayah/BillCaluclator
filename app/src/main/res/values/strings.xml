@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="labAmount">Amount</string>
+    <string name="inpAmount">Enter amount of bill</string>
+    <string name="labNumPax">Num of Pax</string>
+    <string name="inpNumPax">Enter number of people in the group</string>
+    <string name="labDiscount">Discount (%)</string>
+    <string name="inpDiscount">Enter amount of discount</string>
+    <string name="showTotalBill">Total Bill: $0.00</string>
+    <string name="showEachPay">Each Pays: $0.00</string>
+    <string name="svs">SVS</string>
+    <string name="gst">GST</string>
+    <string name="reset">RESET</string>
+    <string name="split">SPLIT</string>
+</resources>
